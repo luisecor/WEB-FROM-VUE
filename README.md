@@ -1,3 +1,6 @@
+# A simple WEB FORM made on VUE.JS
+It request Your email, password, role and skills 
+
 # web-form
 
 ## Project setup
